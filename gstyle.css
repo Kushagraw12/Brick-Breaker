@@ -1,0 +1,12 @@
+body{
+    background-image: url("background2.jpg");
+    padding-left: 330px;
+}
+.heading{
+    color: #860606;
+}
+h1{
+    margin-bottom: 30px;
+    margin-top: 10px;
+    font-size: 30px; 
+}

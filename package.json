@@ -1,0 +1,21 @@
+{
+  "name": "wol-project",
+  "version": "1.0.0",
+  "description": "WoL",
+  "main": "gscript.js",
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "popper.js": "^1.12.9",
+    "bootstrap-social": "^5.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\t"
+  },
+  "author": "Kushagra",
+  "license": "ISC"
+}
